@@ -1,2 +1,3 @@
-# angular1
-Learning angular v1
+# Learning Angular V1
+
+This repo is for learning purpose about old angular
